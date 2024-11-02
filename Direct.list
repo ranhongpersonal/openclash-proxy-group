@@ -26,6 +26,7 @@ IP-CIDR,114.114.115.115/32,no-resolve
 
 #turtle亚服 2024.11.2
 DOMAIN-SUFFIX,turtle-wow.b-cdn.net
+DOMAIN-KEYWORD,turtle-wow
 
 
 # 360
